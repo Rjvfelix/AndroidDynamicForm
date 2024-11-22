@@ -1,0 +1,45 @@
+{
+  "title": "Sample Form",
+  "fields": [
+    {
+      "type": "text",
+      "label": "Full Name",
+      "required": true
+    },
+    {
+      "type": "email",
+      "label": "Email Address",
+      "required": true
+    },
+    {
+      "type": "phone",
+      "label": "Phone Number",
+      "required": true
+    },
+    {
+      "type": "date",
+      "label": "Birth Date",
+      "required": true
+    },
+    {
+      "type": "number",
+      "label": "Age",
+      "required": true
+    },
+    {
+      "type": "image",
+      "label": "Profile Picture",
+      "required": false
+    },
+    {
+      "type": "gps",
+      "label": "Location",
+      "required": true
+    },
+    {
+      "type": "text",
+      "label": "Address",
+      "required": false
+    }
+  ]
+}

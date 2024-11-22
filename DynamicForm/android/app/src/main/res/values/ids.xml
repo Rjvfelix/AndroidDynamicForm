@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id"/>
+    <item name="drawer_layout" type="id"/>
+    <item name="nav_view" type="id"/>
+    <item name="formContainer" type="id"/>
+    <item name="fab_submit" type="id"/>
+</resources>
